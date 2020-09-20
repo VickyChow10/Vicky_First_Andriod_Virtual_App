@@ -1,0 +1,2 @@
+rootProject.name = "Vicky's First Andriod Virtual App"
+include ':app'
